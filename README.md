@@ -16,7 +16,7 @@
   - Design and construct completely custom **personal computers** as a passion project.
 - 💬 Ask me about:
   - Beginner-friendly programming concepts, any problem related to java, and anything related to hardware!
-  - Fun side projects like building a computer in **Minecraft Redstone** or retro game development using **pygame**.
+  - Fun side projects like building a computer in **Minecraft using Redstone** or retro game development using **pygame, lua, and now Unreal with that PsX feeling**.
 - 📚 A lifelong learner, balancing formal education with a passion for innovation and creative problem-solving.
 
 ---
