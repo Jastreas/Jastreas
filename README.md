@@ -47,10 +47,11 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="[https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/juan-andreas-manea-8b1743243/)" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-andreas-manea-8b1743243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:j.andreasmanea@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
