@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Astreas, also known as the Average Programmer Dude!</h1>
 <h2 align="center">⚙️ A Dev in the Making ⚙️</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jastreas&show_icons=true&theme=radical" alt="Astreas's GitHub stats" />
-</p>
-
 ---
 
 ### About Me
@@ -39,6 +35,11 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jastreas&show_icons=true&theme=radical" alt="Astreas's GitHub stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jastreas&hide=TeX&layout=compact&theme=radical" alt="Top Langs" />
 </p>
