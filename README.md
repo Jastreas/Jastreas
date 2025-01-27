@@ -37,10 +37,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jastreas&show_icons=true&theme=radical" alt="Astreas's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jastreas&hide=TeX&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
