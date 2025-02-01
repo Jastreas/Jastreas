@@ -5,7 +5,7 @@
 
 ### About Me
 - 🌱 Currently learning **C, C++, and much more!**
-- 🚀 Exploring **low-level and quantum computing**, **assembly language**, **computational architecture**, and more alongside my studies in **DAM (Desarrollo de Aplicaciones Multiplataforma)**.
+- 🚀 Exploring **assembly language**, **computational architecture**, and more alongside my studies in **DAM (Desarrollo de Aplicaciones Multiplataforma)**.
 - 🎯 Goals: 
   - Contribute to open-source projects focused on systems programming or innovative computing solutions.
   - Build a **personal operating system** and experiment with creating **custom programming languages**.
