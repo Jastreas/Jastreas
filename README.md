@@ -6,10 +6,11 @@
 ### About Me
 - 🌱 Currently learning **C, C++, and much more!**
 - 🚀 Exploring **assembly language**, **computational architecture**, and more alongside my studies in **DAM (Desarrollo de Aplicaciones Multiplataforma)**.
+- 🎮 Developing **Project R**, a piano styled **rythm game** with a few tweaks to make it more spicy!
 - 🎯 Goals: 
   - Contribute to open-source projects focused on systems programming or innovative computing solutions.
   - Build a **personal operating system** and experiment with creating **custom programming languages**.
-  - Design and construct completely custom **personal computers** as a passion project.
+  - Design and construct completely custom **personal computers** as passion projects
 - 💬 Ask me about:
   - Beginner-friendly programming concepts, any problem related to java, and anything related to hardware!
   - Fun side projects like building a computer in **Minecraft using Redstone** or retro game development using **pygame, lua, and now Unreal with that PsX feeling**.
