@@ -13,12 +13,12 @@
   - Design and construct completely custom **personal computers** as passion projects
 - 💬 Ask me about:
   - Beginner-friendly programming concepts, any problem related to java, and anything related to hardware!
-  - Fun side projects like building a computer in **Minecraft using Redstone** or retro game development using **pygame, lua, and now Unreal with that PsX feeling**.
+  - Fun side projects like building a computer in **Minecraft using Redstone** or retro game development using **pygame and raylib**.
 - 📚 A lifelong learner, balancing formal education with a passion for innovation and creative problem-solving.
 
 ---
 
-### 🔧 Technologies & Tools
+### 🔧 Some Technologies & Tools I Use
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -32,6 +32,9 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
 
