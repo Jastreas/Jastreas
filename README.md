@@ -1,38 +1,30 @@
 <h1 align="center">Hi 👋, I'm Astreas, also known as the Average Programmer Dude!</h1>
-<h2 align="center">⚙️ A Dev in the Making ⚙️</h2>
+<h2 align="center">⚙️ Embedded Software Engineer and Game Designer ⚙️</h2>
 
 ---
 
 ### About Me
-- 🌱 Currently learning **C, C++, and much more!**
-- 🚀 Exploring **assembly language**, **computational architecture**, and more alongside my studies in **DAM (Desarrollo de Aplicaciones Multiplataforma)**.
-- 🎮 Developing **Project R**, a piano styled **rythm game** with a few tweaks to make it more spicy!
+- 🌱 Currently learning **Ada and C**
+  - Working on Software Validation as a **Testing Engineer** for national defense equipment.
+- 🚀 Graduated in **DAM (Multiplatform Programming)** and Studying **Videogame Engineering**.
+- 🎮 Developing **Hellbeats**, an undertale inspired **rythm game**!
 - 🎯 Goals: 
   - Contribute to open-source projects focused on systems programming or innovative computing solutions.
-  - Build a **personal operating system** and experiment with creating **custom programming languages**.
-  - Design and construct completely custom **personal computers** as passion projects
-- 💬 Ask me about:
-  - Beginner-friendly programming concepts, any problem related to java, and anything related to hardware!
-  - Fun side projects like building a computer in **Minecraft using Redstone** or retro game development using **pygame and raylib**.
+  - Build a custom small **operating system** and experiment with creating **custom programming languages**.
+  - Build a custom **2d Game Engine** based on OpenGL graphics.
 - 📚 A lifelong learner, balancing formal education with a passion for innovation and creative problem-solving.
 
 ---
 
 ### 🔧 Some Technologies & Tools I Use
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ada](https://img.shields.io/badge/-Ada-02f88c?style=flat-square&logo=gnubash&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=visual-studio-code)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
