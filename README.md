@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Astreas, also known as the Average Programmer Dude!</h1>
-<h2 align="center">⚙️ Embedded Software Engineer and Game Designer ⚙️</h2>
+<h1 align="center">Hi 👋, I'm Astreas!</h1>
+<h2 align="center">⚙️ Embedded Software Developer and aspiring Game Developer ⚙️</h2>
 
 ---
 
 ### About Me
-- 🌱 Currently learning **Ada and C**
-  - Working on Software Validation as a **Testing Engineer** for national defense equipment.
-- 🚀 Graduated in **DAM (Multiplatform Programming)** and Studying **Videogame Engineering**.
-- 🎮 Developing **Hellbeats**, an undertale inspired **rythm game**!
+- 🌱 Currently learning **C++ and DirectX 11**
+  - Working as Software Developer for national defense equipment.
+- 🚀 Graduated in **DAM (Multiplatform Programming)** and Studying **Videogame Development**.
 - 🎯 Goals: 
-  - Contribute to open-source projects focused on systems programming or innovative computing solutions.
   - Build a custom small **operating system** and experiment with creating **custom programming languages**.
-  - Build a custom **2d Game Engine** based on OpenGL graphics.
+  - Build a propietary **2d Game Engine**.
+  - Develop Depicted a **Puzzle analog horror Visual Novel**
 - 📚 A lifelong learner, balancing formal education with a passion for innovation and creative problem-solving.
 
 ---
 
 ### 🔧 Some Technologies & Tools I Use
-![Ada](https://img.shields.io/badge/-Ada-02f88c?style=flat-square&logo=gnubash&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
