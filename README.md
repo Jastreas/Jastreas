@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Astreas</h1>
-<h2 align="center">Software Engineer | Automation, AI & Real-Time Systems</h2>
+<h2 align="center">Software Developer | Automation, AI & Real-Time Systems</h2>
+
+<p align="center">
+  I make computers do increasingly unnecessary things.
+</p>
 
 ---
 
 ### About Me
 
-- 💻 Software Engineer with experience in **software development, automation, simulation, and technical systems**.
-- 🤖 Exploring **AI-powered tools, automation platforms, and intelligent software architectures**.
-- 🎮 Currently working on **real-time 3D, simulation, rendering, and Unreal Engine development**.
-- 🧠 Interested in building software that combines **systems engineering, AI, automation, and interactive technologies**.
-- 🎓 Graduate in **DAM (Multiplatform Application Development)** with continued studies and projects in **videogame development and software engineering**.
-- 🚀 I enjoy building ambitious projects, experimenting with new technologies, and turning ideas into working systems.
+- 💻 Software Developer working across **automation, simulation, AI, and technical systems**.
+- 🤖 I build and experiment with **local AI, automation platforms, and intelligent software architectures**.
+- 🎮 Currently working with **real-time 3D, simulation, rendering, and Unreal Engine**.
+- 🧠 Particularly interested in the point where **systems engineering, AI, graphics, and questionable personal projects** collide.
+- 🎓 Graduate in **DAM (Multiplatform Application Development)**.
+- 🚀 I like building things from scratch, especially when doing so is objectively a waste of time and resources.
 
 ---
 
-### 🔧 Technologies & Tools
+### 🔧 Things I Use to build my stuff
 
 #### Languages & Data
 
@@ -49,7 +53,7 @@
 
 ---
 
-### 🚀 Current Focus
+### 🗿 Currently Cooking
 
 - **Automation systems** and workflow orchestration
 - **Local AI assistants and agentic software**
@@ -58,30 +62,30 @@
 - **Unreal Engine tools and environments**
 - **Software architecture and systems design**
 
+Most projects are developed locally and pushed when they are not that embarrassing anymore.
+
 ---
 
-### 🧪 Projects & Interests
-
-I enjoy experimenting with projects that sit between traditional software engineering and more exploratory engineering work.
-
-Some areas I'm especially interested in:
+### 🧪 Things I Will Probably Build Instead of touching grass
 
 - Intelligent automation platforms
 - Personal AI assistants
 - Real-time simulation and visualization
 - Custom developer tools
 - Game engines and rendering technology
+- Robotics and embedded systems
 - Low-level systems and operating systems
+- Whatever seemed like a reasonable weekend project at the time
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Find Me Elsewhere
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-andreas-manea-8b1743243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:j.andreasmanea@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:J.AndreasManea@proton.me">
+    <img src="https://img.shields.io/badge/Email-6D4AFF.svg?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </p>
