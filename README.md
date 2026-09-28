@@ -82,7 +82,7 @@ Most projects are developed locally and pushed when they are not that embarrassi
 ### 🌐 Find Me Elsewhere
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/juan-andreas-manea-8b1743243/](https://www.linkedin.com/in/j-andreas-manea-8b1743243/)" target="_blank">
+  <a href="https://www.linkedin.com/in/j-andreas-manea-8b1743243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:J.AndreasManea@proton.me">
